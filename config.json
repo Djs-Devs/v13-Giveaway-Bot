@@ -1,0 +1,6 @@
+{
+  "token": "Put your Token Here", 
+  "prefix": "Put your prefix here",
+  "everyoneMention": false,
+  "hostedBy": true
+}
